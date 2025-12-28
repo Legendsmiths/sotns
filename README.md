@@ -1,9 +1,10 @@
 # Shadow of the New Sun
+{:toc}
 The world is young and full of promise. Magic sustains everyone. The basics are plentiful, though luxuries remain elusive. All beings that can accept civil society are welcome. It has been a century since the Great Dragon War and harmony has returned to the world. 
 
 Now the dragons have returned, and balance must be maintained at any cost. 
 
-This is a [West Marches](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/) style game (I think, mostly, probably). 
+This is a [West Marches][1] style game (I think, mostly, probably). 
 
 The gods are the embodiment of the Cosmic Notions. The gods are new. They have no names…yet. Their influence is real, but references to them are made venerating their concept rather than any eternal truth. The Warrior. The Trickster. The Herald. The Strategist. The Lover. The Hero. Priests and cults abound. Some gods are even worshiped and supported by organized congregations. None are acknowledged as regent, though they may intend to be. 
 
@@ -25,5 +26,8 @@ This is pretty raw, but I think it’s better than just playing D&D. As I was re
 - primordial shards are currency and the basis for all manastones
 
 # Credits
-A high-fantasy TTRPG powered by [Shadow of the Weird Wizard RPG](https://schwalbentertainment.com/shadow-of-the-weird-wizard/)
+A high-fantasy TTRPG powered by [Shadow of the Weird Wizard RPG][2]
 
+
+[1]:	https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/
+[2]:	https://schwalbentertainment.com/shadow-of-the-weird-wizard/
