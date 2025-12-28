@@ -33,5 +33,5 @@ A high-fantasy TTRPG powered by [Shadow of the Weird Wizard RPG][3]
 
 
 [1]:	https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/
-[2]:	(converting.md)
+[2]:	converting.md
 [3]:	https://schwalbentertainment.com/shadow-of-the-weird-wizard/
