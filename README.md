@@ -1,6 +1,4 @@
 # Shadow of the New Sun
-A high-fantasy TTRPG powered by [Shadow of the Weird Wizard RPG](https://schwalbentertainment.com/shadow-of-the-weird-wizard/)
-
 The world is young and full of promise. Magic sustains everyone. The basics are plentiful, though luxuries remain elusive. All beings that can accept civil society are welcome. It has been a century since the Great Dragon War and harmony has returned to the world. 
 
 Now the dragons have returned, and balance must be maintained at any cost. 
@@ -25,3 +23,7 @@ This is pretty raw, but I think it’s better than just playing D&D. As I was re
 - soulstones can bring you back to life 
 - powerstones, spellstones, and talentstones exist to grant temporary abilities
 - primordial shards are currency and the basis for all manastones
+
+# Credits
+A high-fantasy TTRPG powered by [Shadow of the Weird Wizard RPG](https://schwalbentertainment.com/shadow-of-the-weird-wizard/)
+
